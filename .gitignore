@@ -178,3 +178,5 @@ annotations
 *debug*
 *test*
 TensorRT*
+
+*.swp
